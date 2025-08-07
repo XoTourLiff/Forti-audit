@@ -1,10 +1,18 @@
 [
   {
-    "Policy": "Exclude_from_DMZ (879)",
-    "Source": ["all"],
-    "Destination": ["Exclude_countries_and_ips"],
-    "Schedule": ["always"],
-    "Service": ["ALL"],
+    "Policy": "Exclude_from_DMZ",
+    "Source": [
+      "all"
+    ],
+    "Destination": [
+      "Exclude_countries_and_ips"
+    ],
+    "Schedule": [
+      "always"
+    ],
+    "Service": [
+      "ALL"
+    ],
     "Action": "DENY",
     "IP Pool": [],
     "NAT": "",
@@ -12,36 +20,52 @@
     "Security Profiles": [],
     "Log": "All",
     "Bytes": "0 B",
-    "Interface Pair": "port4,SD-internet"
+    "Interface Pair": "SD-internet"
   },
   {
-    "Policy": "Allow_Web_Traffic (101)",
-    "Source": ["Internal_Net"],
-    "Destination": ["Web_Servers"],
-    "Schedule": ["workhours"],
-    "Service": ["HTTP", "HTTPS"],
-    "Action": "ALLOW",
-    "IP Pool": ["web-pool"],
-    "NAT": "Enabled",
-    "Type": "Standard",
-    "Security Profiles": ["AV", "WebFilter"],
-    "Log": "All",
-    "Bytes": "2048 B",
-    "Interface Pair": "port1,port2"
-  },
-  {
-    "Policy": "VPN_Access (300)",
-    "Source": ["VPN_Users"],
-    "Destination": ["Internal_Net"],
-    "Schedule": ["always"],
-    "Service": ["ALL"],
-    "Action": "ALLOW",
+    "Policy": "point to point",
+    "Source": [
+      "all"
+    ],
+    "Destination": [
+      "all"
+    ],
+    "Schedule": [
+      "always"
+    ],
+    "Service": [
+      "ALL"
+    ],
+    "Action": "ACCEPT",
     "IP Pool": [],
-    "NAT": "Disabled",
-    "Type": "IPSec",
-    "Security Profiles": ["IPS"],
-    "Log": "Security",
-    "Bytes": "102400 B",
-    "Interface Pair": "port5,port1"
-  }
+    "NAT": "",
+    "Type": "Standard",
+    "Security Profiles": [],
+    "Log": "All",
+    "Bytes": "40 B",
+    "Interface Pair": "Lan Zone"
+  },
+  {
+    "Policy": "LAN to WAN",
+    "Source": [
+      "all"
+    ],
+    "Destination": [
+      "all"
+    ],
+    "Schedule": [
+      "always"
+    ],
+    "Service": [
+      "ALL"
+    ],
+    "Action": "ACCEPT",
+    "IP Pool": [],
+    "NAT": "",
+    "Type": "Standard",
+    "Security Profiles": [],
+    "Log": "All",
+    "Bytes": "0 B",
+    "Interface Pair": "Lan Zone"
+  },
 ]
