@@ -9,7 +9,7 @@ import time
 
 class ObjectsPingChecker:
     
-    def __init__(self, json_file_path='Ping-Objects/objectcheck.json'):
+    def __init__(self, json_file_path='objectcheck.json'):
         """Initialize the ping checker with JSON data from local file"""
         self.json_file = json_file_path
         self.objects_data = None
