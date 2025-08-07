@@ -59,6 +59,6 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 ## Usage
 Both scripts require JSON files in their same directory:
 - `policycheck-forti.json` for policy analysis
-- `objectscheck.json` for connectivity testing
+- `objectcheck.json` for connectivity testing
 
 Results are saved as detailed JSON reports for further analysis and remediation planning.
