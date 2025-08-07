@@ -1,27 +1,22 @@
 [
   {
-    "name": "165.160.13.20",
-    "ip_address": "165.160.13.20",
-    "original_cidr": "165.160.13.20/32"
+    "Name": ["165.160.13.20"],
+    "IP": ["165.160.13.20/32"]
   },
   {
-    "name": "AA-IPTEMPBO",
-    "ip_address": "10.2.0.3",
-    "original_cidr": "10.2.0.3/32"
+    "Name": ["AA-IPTEMPBO"],
+    "IP": ["10.2.0.3/32"]
   },
   {
-    "name": "Internal_Server_1",
-    "ip_address": "192.168.1.10",
-    "original_cidr": "192.168.1.10/32"
+    "Name": ["Internal_Server_1"],
+    "IP": ["192.168.1.10/32"]
   },
   {
-    "name": "Blocked_IP",
-    "ip_address": "203.0.113.45",
-    "original_cidr": "203.0.113.45/32"
+    "Name": ["Blocked_IP"],
+    "IP": ["203.0.113.45/32"]
   },
   {
-    "name": "Test_Device",
-    "ip_address": "172.16.0.50",
-    "original_cidr": "172.16.0.50/32"
+    "Name": ["Test_Device"],
+    "IP": ["172.16.0.50/32"]
   }
 ]
