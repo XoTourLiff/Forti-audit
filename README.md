@@ -41,7 +41,7 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 
 
 ### Download JSON files
-- **Policies**
+#### **Policies**
 
 <img width="1904" height="496" alt="image" src="https://github.com/user-attachments/assets/9797d3c9-8209-492f-8789-a8ff76b1d4b6" />
 
@@ -49,8 +49,7 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 
 
 ⚠️ Place the JSON the same directory of PolicyCheck.py .
-
-- **Objects**
+#### **Objects**
 
 <img width="1812" height="343" alt="image" src="https://github.com/user-attachments/assets/45e69513-6feb-4a12-a8c6-b9b8528a4a4e" />
 
