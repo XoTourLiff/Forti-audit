@@ -68,15 +68,7 @@ Both scripts require JSON files in their same directory:
 
 Results are saved as detailed JSON reports for further analysis and remediation planning.
 
-### Linux
-
-[linux-demonstration.webm](https://github.com/user-attachments/assets/b0604fde-4826-4960-859a-6b1e77f18a16)
-
-### Windows
-
-
-
-
+[demonstration.webm](https://github.com/user-attachments/assets/b0604fde-4826-4960-859a-6b1e77f18a16)
 
 **Then you can just sit back and check out the results.**
 
