@@ -48,11 +48,17 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 <img width="400" height="169" alt="image" src="https://github.com/user-attachments/assets/88e6be38-d219-49c5-9709-ec8ff84503ef" />
 
 
-⚠️ Place the JSON the same directory of PolicyCheck.py.
+⚠️ Place the JSON the same directory of PolicyCheck.py .
 
 - **Objects**
 
+<img width="1812" height="343" alt="image" src="https://github.com/user-attachments/assets/45e69513-6feb-4a12-a8c6-b9b8528a4a4e" />
 
+<img width="339" height="382" alt="image" src="https://github.com/user-attachments/assets/d6236e34-d7e9-46e7-9889-919f592af564" />
+
+<img width="380" height="108" alt="image" src="https://github.com/user-attachments/assets/b158e13d-c7bb-4ddc-a96e-6b47916a185d" />
+
+⚠️ Place the JSON the same directory of ObjectsCheck.py .
 
 
 
