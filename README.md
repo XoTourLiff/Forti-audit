@@ -34,7 +34,7 @@ Network connectivity validator for FortiGate address objects:
 ## Prepare your Environment
 
 ## Usage
-Both scripts require JSON files in the same directory:
+Both scripts require JSON files in their same directory:
 - `policycheck-forti.json` for policy analysis
 - `objectscheck.json` for connectivity testing
 
