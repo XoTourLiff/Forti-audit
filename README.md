@@ -33,7 +33,7 @@ Network connectivity validator for FortiGate address objects:
 
 ## Prepare your Environment
 
-### Downlaod repository
+### Download repository
 
 ```
 git clone https://github.com/XoTourLiff/Forti-audit.git
