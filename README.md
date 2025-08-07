@@ -70,5 +70,5 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 
 ### Linux
 
-[Capturevidodu2025-08-0714-35-32-ezgif.com-video-to-gif-converter.webm](https://github.com/user-attachments/assets/f861aa15-9993-4d5d-9161-7ad4ac39a3f9)
+[Linux-demonstration.webm](https://github.com/user-attachments/assets/f861aa15-9993-4d5d-9161-7ad4ac39a3f9)
 
