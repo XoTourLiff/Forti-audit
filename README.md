@@ -41,7 +41,7 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 
 
 ### Download JSON files
-#### Policie :
+#### Policies :
 
 <img width="1904" height="496" alt="image" src="https://github.com/user-attachments/assets/9797d3c9-8209-492f-8789-a8ff76b1d4b6" />
 
