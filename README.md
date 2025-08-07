@@ -33,8 +33,11 @@ Network connectivity validator for FortiGate address objects:
 
 ## Prepare your Environment
 
-### Downlaod both python scripts
+### Downlaod repository
 
+```
+git clone https://github.com/XoTourLiff/Forti-audit.git
+```
 
 
 ### Download JSON files
