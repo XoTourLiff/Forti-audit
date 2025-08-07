@@ -59,7 +59,6 @@ git clone https://github.com/XoTourLiff/Forti-audit.git
 
 ⚠️ Place the JSON the same directory of ObjectsCheck.py .
 
-\n
 
 ## Usage
 Both scripts require JSON files in their same directory:
