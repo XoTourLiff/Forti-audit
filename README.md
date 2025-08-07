@@ -38,7 +38,7 @@ Network connectivity validator for FortiGate address objects:
 ```
 git clone https://github.com/XoTourLiff/Forti-audit.git
 ```
-
+Note : There are one JSON exemple file in both python scripts.
 
 ### Download JSON files
 #### Policies :
@@ -70,5 +70,7 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 
 ### Linux
 
-[Linux-demonstration.webm](https://github.com/user-attachments/assets/f861aa15-9993-4d5d-9161-7ad4ac39a3f9)
+[Capture vidéo du 2025-08-07 14-35-32.webm](https://github.com/user-attachments/assets/525c892e-4209-43d8-8e29-9e4aed4d18ff)
+
+
 
