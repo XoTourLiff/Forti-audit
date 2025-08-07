@@ -70,7 +70,7 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 
 [demonstration.webm](https://github.com/user-attachments/assets/b0604fde-4826-4960-859a-6b1e77f18a16)
 
-**Then you can just sit back and check out the results.**
+**Then you can just sit back and check out the results with VSC.**
 
 <img width="1205" height="402" alt="image" src="https://github.com/user-attachments/assets/02197b1b-e3d2-4c03-8131-624d420d0b7e" />
 
