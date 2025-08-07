@@ -33,6 +33,20 @@ Network connectivity validator for FortiGate address objects:
 
 ## Prepare your Environment
 
+### Donwload JSON files
+
+#### Policy
+
+<img width="1904" height="496" alt="image" src="https://github.com/user-attachments/assets/9797d3c9-8209-492f-8789-a8ff76b1d4b6" />
+
+<img width="400" height="169" alt="image" src="https://github.com/user-attachments/assets/88e6be38-d219-49c5-9709-ec8ff84503ef" />
+
+Now, place the JSON the same directory of PolicyCheck.py :
+
+
+
+#### Objects
+
 ## Usage
 Both scripts require JSON files in their same directory:
 - `policycheck-forti.json` for policy analysis
