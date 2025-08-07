@@ -80,6 +80,7 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 
 **Then you can just sit back and check out the results.**
 
+<img width="1205" height="402" alt="image" src="https://github.com/user-attachments/assets/02197b1b-e3d2-4c03-8131-624d420d0b7e" />
 
 
 
