@@ -74,6 +74,9 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 
 ### Windows
 
+![Windows-demonstration](https://github.com/user-attachments/assets/3e807df2-8e1a-4fcf-8b4a-48968684eaec)
+
+
 
 **Then you can just sit back and check out the results.**
 
