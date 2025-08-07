@@ -31,6 +31,8 @@ Network connectivity validator for FortiGate address objects:
 
 **Output:** JSON report with failed pings, object names, and network health summary
 
+## Prepare your Environment
+
 ## Usage
 Both scripts require JSON files in the same directory:
 - `policycheck-forti.json` for policy analysis
