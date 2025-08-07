@@ -75,6 +75,7 @@ Results are saved as detailed JSON reports for further analysis and remediation 
 ### Windows
 
 
+Then you can just sit back and check out the results.
 
 
 
