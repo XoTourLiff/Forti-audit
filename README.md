@@ -6,7 +6,7 @@ Advanced security policy analyzer that audits FortiGate firewall rules for secur
 
 **Security Analysis:**
 - **Unused rules** - Identifies ACCEPT rules with zero bytes traffic (potential dead rules)
-- **Critical permissive rules** - Detects ALL-ALL-ALL configurations (source, destination, service)  
+- **Critical permissive rules** - Detects ALL-ALL configurations (can be : source, destination, service)  
 - **High-risk permissive rules** - Finds rules with single ALL configurations
 - **Duplicate rules** - Locates redundant policy entries with identical configurations
 
