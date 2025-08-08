@@ -1,5 +1,6 @@
 # Forti-audit
 Comprehensive automated auditing toolkit for FortiGate firewalls
+Don’t use this if you have recently reset your firewall
 
 ## PolicyCheck Script
 Advanced security policy analyzer that audits FortiGate firewall rules for security vulnerabilities and optimization opportunities:
